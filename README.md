@@ -1,2 +1,2 @@
-# MicahD18.ExpandingPanels
+# ExpandingPanels
 Just a short and simple Javascript project
